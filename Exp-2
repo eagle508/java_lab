@@ -1,0 +1,18 @@
+//Write a Java program to print the sum(addition),
+// multiply subtract, divide and remainder of to numbers.
+class Experiment2{
+   public static  void main(String[] args){
+    int a=10;
+    int b=5;
+    System.out.print("Additon=>");
+    System.out.println(a+b);
+    System.out.print("substraction=>");
+    System.out.println(a-b);
+    System.out.print("multipy=>");
+    System.out.println(a*b);
+    System.out.print("divide=>");
+    System.out.println(a/b);
+    System.out.print("modulo=>");
+    System.out.println(a%b);
+   }
+}
