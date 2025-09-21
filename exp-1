@@ -1,0 +1,8 @@
+# -Java-Lab-Experiment-
+// Write down the steps involved in Execution of a Java Program with the help of the diagram.
+public class Experiment1{
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("Chandan");
+    }
+}
